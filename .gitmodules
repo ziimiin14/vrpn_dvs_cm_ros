@@ -1,0 +1,9 @@
+[submodule "rpg_dvs_ros_modifed"]
+	path = rpg_dvs_ros_modifed
+	url = https://github.com/ziimiin14/rpg_dvs_ros_modifed.git
+[submodule "catkin_simple"]
+	path = catkin_simple
+	url = https://github.com/catkin/catkin_simple.git
+[submodule "cm_ros"]
+	path = cm_ros
+	url = https://github.com/ziimiin14/cm_ros.git
