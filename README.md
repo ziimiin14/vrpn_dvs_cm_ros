@@ -48,13 +48,13 @@ source devel/setup.bash
 
 ### cm_ros 
 
-This package contains a [launch file](https://github.com/ziimiin14/cm_ros/blob/651bc7e6c9ffbae166ea05ad6aa39727e53f3405/launch/sample.launch) to run dvs240 event camera ros node and cm ros node.
+This package contains a [launch file](https://github.com/ziimiin14/cm_ros/blob/db46deeea0acf3585af2cb51b79db4643043291d/launch/sample.launch) to run dvs240 event camera ros node and cm ros node.
 
 To start:
 ```
 roslaunch cm_ros sample.launch
 ```
 
-P/S: If you want to run the dvs240 event camera ros node only, you can comment out the cm ros node specified in the [launch file](https://github.com/ziimiin14/cm_ros/blob/651bc7e6c9ffbae166ea05ad6aa39727e53f3405/launch/sample.launch).
+P/S: If you want to run the dvs240 event camera ros node only, you can comment out the cm ros node specified in the [launch file](https://github.com/ziimiin14/cm_ros/blob/db46deeea0acf3585af2cb51b79db4643043291d/launch/sample.launch).
 
 
