@@ -58,3 +58,6 @@ roslaunch cm_ros sample.launch
 P/S: If you want to run the dvs240 event camera ros node only, you can comment out the cm ros node specified in the [launch file](https://github.com/ziimiin14/cm_ros/blob/db46deeea0acf3585af2cb51b79db4643043291d/launch/sample.launch).
 
 
+## Calibration XML file
+
+- calibration matrix xml file for dvs240: [dvs240_calib_09132021_AICO_F4.5.xml](https://github.com/ziimiin14/vrpn_dvs_cm_ros/blob/master/dvs240_calib_09132021_AICO_F4.5.xml)
